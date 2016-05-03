@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+body{
+
+}
+
+.container{
+  position:relative;
+  margin: auto;
+  width: 97.5%;
+  height: 150px;
+  background-color: gray;
+  border-style: solid;
+  border-width: 3px;
+  margin: 20px;
+}
+
+div{
+   text-align: right;
+}
+
+p{
+    text-align: left;
+
+
+}
+
+/* Simple Responsive Framework. */
+.row {
+  width: 100%;
+}
